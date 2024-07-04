@@ -1,0 +1,10 @@
+{
+  "name": "node-camp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Muhammad Fahad",
+  "license": "ISC",
+  "description": "Code Repo for Node.JS"
+}
